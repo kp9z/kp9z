@@ -3,7 +3,7 @@
 
 > I build systems that scale and scripts that delete manual labor. Currently scaling AI-driven dermatology at Acie while optimizing my personal stack.
 
-## Project
+## Projects
 - 🤖 [Acie](https://acie.skin) - Pioneering AI-powered dermatology and skin health monitoring.
 
 ## Legacy Work

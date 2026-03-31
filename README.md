@@ -2,7 +2,8 @@
 🤖 High-Leverage Architect | 🚀 CTO @ Acie 
 
 > I build systems that scale and scripts that delete manual labor. Currently scaling AI-driven dermatology at Acie while optimizing my personal stack.
-
+🌐 [kennytrinh.com](https://kennytrinh.com)
+> 
 ## Projects
 - 🤖 [Acie](https://acie.skin) - Pioneering AI-powered dermatology and skin health monitoring.
 

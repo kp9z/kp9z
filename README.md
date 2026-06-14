@@ -1,21 +1,22 @@
 # Kenny 👋
-🤖 High-Leverage Architect | 🚀 CTO @ Acie 
+🤖 High-Leverage Architect | 🚀 CTO @ Acie
 
 > I build systems that scale and scripts that delete manual labor. Currently scaling AI-driven dermatology at Acie while optimizing my personal stack.
-> 
+>
 🌐 [kennytrinh.com](https://kennytrinh.com)
-> 
+
 ## Projects
 - 🤖 [Acie](https://acie.skin) - Pioneering AI-powered dermatology and skin health monitoring.
 
 ## Legacy Work
-- 🎮 [Typing Quest](https://github.com/kp9z/typing-quest): Vide-coding games that combine platforming with typing challenges
+- 🎮 [Typing Quest](https://github.com/kp9z/typing-quest): Vibe-coding games that combine platforming with typing challenges.
 - 🎬 [Youtube Summarizer Chrome Extension](https://github.com/kp9z/youtube-summarize-extension): Chrome Extension for rapid content digestion.
-- 🦋 [Butterfly Generator](https://github.com/kp9z/butterfly_generator): thispersondoesnotexist for butterfly, generate new butterfly using GAN
+- 🦋 [Butterfly Generator](https://github.com/kp9z/butterfly_generator): thispersondoesnotexist for butterfly, generate new butterfly using GAN.
 - 🏷️ [CouponLawn](https://couponlawn.com): Highly efficient coupon aggregation platform.
 - 📊 [Google Sheet API Wrapper](https://github.com/kp9z/kp_gs_api): Lightweight wrapper for Google Sheets integration.
 
 ## Latest Blog Posts
-- [Needles in a hay stack](https://github.com/kp9z/needles-in-a-haystack): Improving Retrieval and Reasoning capability of LLM system
-- [Enhancing LLM Performance with Tool Calling
-](https://github.com/kp9z/ai-tools-calling):  A Practical Implementation Approach
+- [From Chatbot to Co-Worker: Notes from My First Month with Hermes](https://kennytrinh.com/blog/from-chatbot-to-co-worker): A field note on turning a personal AI assistant from another chat window into something closer to a co-worker.
+- [Reading Code Cold](https://kennytrinh.com/blog/reading-code-cold): Why arriving without context can be useful when reading code.
+- [Needles in a Haystack](https://kennytrinh.com/blog/needles-in-a-haystack): Improving retrieval and reasoning capability of LLM systems.
+- [AI Tools Calling](https://kennytrinh.com/blog/ai-tools-calling): A practical implementation approach for tool calling in LLM systems.

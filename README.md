@@ -5,8 +5,9 @@
 >
 🌐 [kennytrinh.com](https://kennytrinh.com)
 
-## Projects
+## Current Work
 - 🤖 [Acie](https://acie.skin) - Pioneering AI-powered dermatology and skin health monitoring.
+- 🖥️ [terminal-whiteboard](https://github.com/kp9z/terminal-whiteboard) - Rough terminal-style whiteboard visuals for technical posts, docs, and explainers.
 
 ## Legacy Work
 - 🎮 [Typing Quest](https://github.com/kp9z/typing-quest): Vibe-coding games that combine platforming with typing challenges.

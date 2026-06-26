@@ -20,4 +20,4 @@
 - [Talk To Your Agent More](https://kennytrinh.com/blog/talk-to-your-agent): Voice is not just faster typing. It preserves the messy context that agents need to understand what we actually mean.
 - [From Chatbot to Co-Worker: Notes from My First Month with Hermes](https://kennytrinh.com/blog/from-chatbot-to-co-worker): A field note on turning a personal AI assistant from another chat window into something closer to a co-worker.
 - [Reading Code Cold](https://kennytrinh.com/blog/reading-code-cold): Why arriving without context can be useful when reading code.
-- [Needles in a Haystack](https://kennytrinh.com/blog/needles-in-a-haystack): Improving retrieval and reasoning capability of LLM systems.
+- [The Real Work of Building Better Agents](https://kennytrinh.com/blog/real-work-building-better-agents): Agent quality is not just choosing a smarter model. It is controlling context, routing, memory, deterministic work, and uncertainty.

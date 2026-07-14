@@ -10,7 +10,7 @@
 - 🖥️ [terminal-whiteboard](https://github.com/kp9z/terminal-whiteboard) - Agent-friendly terminal-style whiteboard visuals, built by an agent for agents.
 
 ## Legacy Work
-- 🩺 [Vindicara](https://vindicara.com): Founding engineer building AI-powered clinical decision support for earlier endometriosis detection.
+- 🩺 [Vindicara](https://vindicara.com): Founding engineer building rules-based clinical decision support for earlier endometriosis detection.
 - 🎮 [Typing Quest](https://github.com/kp9z/typing-quest): Vibe-coding games that combine platforming with typing challenges.
 - 🎬 [Youtube Summarizer Chrome Extension](https://github.com/kp9z/youtube-summarize-extension): Chrome Extension for rapid content digestion.
 - 🦋 [Butterfly Generator](https://github.com/kp9z/butterfly_generator): thispersondoesnotexist for butterfly, generate new butterfly using GAN.

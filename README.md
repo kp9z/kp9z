@@ -7,6 +7,7 @@
 
 ## Current Work
 - 🤖 [Acie](https://acie.skin) - Pioneering AI-powered dermatology and skin health monitoring.
+- 🧰 [Agent Workspace](https://github.com/kp9z/agent-workspace) - Self-hosted browser workspace for Hermes Agent with persistent chats, projects, tool streaming, approvals, and SQLite history.
 - 🖥️ [terminal-whiteboard](https://github.com/kp9z/terminal-whiteboard) - Agent-friendly terminal-style whiteboard visuals, built by an agent for agents.
 
 ## Legacy Work

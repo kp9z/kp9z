@@ -1,17 +1,10 @@
-<h1 align="center">Kenny Trinh 👋</h1>
+# Kenny Trinh 👋
 
-<p align="center">
-  <strong>CTO @ <a href="https://acie.skin">ACIE</a></strong>
-</p>
+**CTO @ [ACIE](https://acie.skin)**
 
-<p align="center">
-  I build production AI systems, agent infrastructure, and small tools that eliminate recurring work.<br>
-  Currently focused on AI-driven dermatology and making autonomous agents dependable enough for real work.
-</p>
+I build production AI systems, agent infrastructure, and small tools that eliminate recurring work. Currently focused on AI-driven dermatology and making autonomous agents dependable enough for real work.
 
-<p align="center">
-  🌐 <a href="https://kennytrinh.com">kennytrinh.com</a>
-</p>
+🌐 [kennytrinh.com](https://kennytrinh.com)
 
 ## Current Work
 - 🤖 [Acie](https://acie.skin) - Pioneering AI-powered dermatology and skin health monitoring.

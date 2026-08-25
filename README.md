@@ -27,6 +27,7 @@
 - 📊 [Google Sheet API Wrapper](https://github.com/kp9z/kp_gs_api): Lightweight wrapper for Google Sheets integration.
 
 ## Latest Blog Posts
+- [Zero-Based Data Budgeting: Design the Feature Before Collecting the Data](https://kennytrinh.com/blog/zero-based-data-budgeting): A practical privacy-by-design method for giving every feature and service a minimum data budget before collection begins.
 - [Talk To Your Agent More](https://kennytrinh.com/blog/talk-to-your-agent): Voice is not just faster typing. It preserves the messy context that agents need to understand what we actually mean.
 - [From Chatbot to Co-Worker: Notes from My First Month with Hermes](https://kennytrinh.com/blog/from-chatbot-to-co-worker): A field note on turning a personal AI assistant from another chat window into something closer to a co-worker.
 - [Reading Code Cold](https://kennytrinh.com/blog/reading-code-cold): Why arriving without context can be useful when reading code.

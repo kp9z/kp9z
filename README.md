@@ -1,9 +1,17 @@
-# Kenny 👋
-🤖 High-Leverage Architect | 🚀 CTO @ Acie
+<h1 align="center">Kenny Trinh 👋</h1>
 
-> I build systems that scale and scripts that delete manual labor. Currently scaling AI-driven dermatology at Acie while optimizing my personal stack.
->
-🌐 [kennytrinh.com](https://kennytrinh.com)
+<p align="center">
+  <strong>CTO @ <a href="https://acie.skin">ACIE</a></strong>
+</p>
+
+<p align="center">
+  I build production AI systems, agent infrastructure, and small tools that eliminate recurring work.<br>
+  Currently focused on AI-driven dermatology and making autonomous agents dependable enough for real work.
+</p>
+
+<p align="center">
+  🌐 <a href="https://kennytrinh.com">kennytrinh.com</a>
+</p>
 
 ## Current Work
 - 🤖 [Acie](https://acie.skin) - Pioneering AI-powered dermatology and skin health monitoring.

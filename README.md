@@ -9,7 +9,16 @@ I build production AI systems, agent infrastructure, and small tools that elimin
 ## Current Work
 - 🤖 [Acie](https://acie.skin) - Pioneering AI-powered dermatology and skin health monitoring.
 - 🧰 [Agent Workspace](https://github.com/kp9z/agent-workspace) - Self-hosted browser workspace for Hermes Agent with persistent chats, projects, tool streaming, approvals, and SQLite history.
+- 🖨️ [3D Printing Agent](https://github.com/kp9z/3d-printing-agent) - Codex skills that turn physical-object ideas into reviewed 3D concepts and validated STL files.
 - 🖥️ [terminal-whiteboard](https://github.com/kp9z/terminal-whiteboard) - Agent-friendly terminal-style whiteboard visuals, built by an agent for agents.
+
+## Highlighted Project
+
+### [3D Printing Agent](https://github.com/kp9z/3d-printing-agent)
+
+A design-first workflow that uses an interactive Three.js review to correct proportions, orientation, access, and moving parts before rebuilding the approved model parametrically in OpenSCAD.
+
+[![3D Printing Agent interactive Three.js design review](https://raw.githubusercontent.com/kp9z/3d-printing-agent/main/assets/threejs-design-review.gif)](https://github.com/kp9z/3d-printing-agent)
 
 ## Legacy Work
 - 🩺 [Vindicara](https://vindicara.com): Founding engineer building clinical decision support for earlier endometriosis detection.
